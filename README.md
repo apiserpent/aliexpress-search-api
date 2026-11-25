@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # AliExpress Search API
 
 Search AliExpress products and get prices, discounts, ratings, order counts and shipping info as JSON.
